@@ -6,5 +6,5 @@
   <displayStatus>true</displayStatus>
   <commitMessagePattern>[message]</commitMessagePattern>
   <manualSynchronizationIncludes/>
-  <jobSynchronizationIncludes>yizhang_test_1</jobSynchronizationIncludes>
+  <jobSynchronizationIncludes>yizhang_test_1#yizhang_test_2#yizhang_test_3</jobSynchronizationIncludes>
 </hudson.plugins.scm__sync__configuration.ScmSyncConfigurationPlugin>
